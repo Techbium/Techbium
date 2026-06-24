@@ -1,7 +1,7 @@
-<h1 align="center">👋, I'm Techbium</h1>
+<h1 align="center">Techbium</h1>
 
 <h3 align="center">
-Backend Developer • API Builder • Docker Learner
+Backend Developer 
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ and understanding how software works under the hood.
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Docker, DevOps and scalable backend architecture
+- 🌱 Currently exploring Docker, DevOps and scalable backend architecture
 - 🔭 Building backend applications with Node.js and Express
 - 🗄️ Working with PostgreSQL and Prisma ORM
 - 🤖 Exploring AI-powered applications
@@ -76,3 +76,5 @@ Backend-driven assessment and evaluation system.
 I prefer understanding why things work before using them.
 
 Strong fundamentals outlast frameworks.
+
+----Techbium aka O. Olatunji Rauf
