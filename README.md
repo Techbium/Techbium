@@ -1,66 +1,86 @@
+<h1 align="center">👋, I'm Techbium</h1>
 
-I'm Techbium.    => O. Olatunji Rauf
+<h3 align="center">
+Backend Developer • API Builder • Docker Learner
+</h3>
 
-I'm a software developer focused on backend engineering and building systems that solve real-world problems.
+<p align="center">
+I enjoy building backend systems, designing APIs, working with databases,
+and understanding how software works under the hood.
+</p>
 
-My primary interest is understanding how software works beneath the surface—from HTTP requests and databases to server architecture, containers, and deployment.
+---
 
-## 🚀 What I Build
+## 🚀 About Me
 
-- REST APIs with Node.js and Express
-- Backend services using JavaScript and TypeScript
-- Database-driven applications with PostgreSQL and Prisma
-- Assessment and evaluation systems
-- Appointment and scheduling platforms
-- AI-assisted applications and tools
-- Dockerized applications and deployment workflows
+- 🌱 Currently learning Docker, DevOps and scalable backend architecture
+- 🔭 Building backend applications with Node.js and Express
+- 🗄️ Working with PostgreSQL and Prisma ORM
+- 🤖 Exploring AI-powered applications
+- 🐧 Linux enthusiast
+- 📚 Constantly learning system design and software architecture
+
+---
 
 ## 🛠️ Tech Stack
 
+### Languages
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
 ### Backend
-- Node.js
-- Express.js
-- JavaScript
-- TypeScript
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
 ### Databases
-- PostgreSQL
-- Prisma ORM
 
-### DevOps & Infrastructure
-- Docker
-- Linux
-- Git
-- GitHub
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
-### Other Interests
-- Software Architecture
-- API Design
-- System Design
-- Artificial Intelligence
-- Large Language Models (LLMs)
+### Tools
 
-## 📚 Currently Learning
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-- Docker and containerization
-- Scalable backend architecture
-- System design fundamentals
-- DevOps practices
-- AI application development
+---
 
-## 🎯 Goals
+## 🎯 Current Goals
 
-- Build production-ready backend systems
-- Become highly proficient in backend engineering
-- Contribute to open-source projects
-- Develop software that creates measurable impact
+- Master Docker and containerization
+- Build production-ready APIs
+- Learn DevOps fundamentals
+- Improve backend system design
+- Contribute to open source
 
-## 📈 Philosophy
+---
 
-I prefer understanding *why* something works before learning *how* to use it.
+## 📌 Featured Projects
 
-Technology changes quickly, but strong fundamentals remain valuable.
+### 📅 Appointment Booking System
+Scheduling platform with backend business logic and database integration.
 
-## 🤝 Connect
+### 🎙️ Audio Note Taker
+Convert spoken content into structured notes.
 
-Feel free to explore my repositories and follow my journey as I continue learning, building, and sharing what I discover.
+### 📝 Assessment Platform
+Backend-driven assessment and evaluation system.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techbium&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techbium&layout=compact)
+
+---
+
+## ⚡ Philosophy
+
+I prefer understanding why things work before using them.
+
+Strong fundamentals outlast frameworks.
