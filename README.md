@@ -71,14 +71,6 @@ Backend-driven assessment and evaluation system.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techbium&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techbium&layout=compact)
-
----
-
 ## ⚡ Philosophy
 
 I prefer understanding why things work before using them.
